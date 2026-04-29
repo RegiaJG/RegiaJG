@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 Sobre mim 
+## 🧠 Sobre mim
 
 Sou estudante de **Engenharia de Software** (Descomplica UniAmérica) com especialização em **User Experience (240h)** e foco prático em automação de fluxos de trabalho com Python e LLMs.
 
@@ -31,13 +31,17 @@ Atualmente estou evoluindo o projeto **Escriba** para uma aplicação desktop co
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+<br/>
+
 **IA & Automação**
 
-![OpenAI Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -48,9 +52,13 @@ Atualmente estou evoluindo o projeto **Escriba** para uma aplicação desktop co
 ![Moises AI](https://img.shields.io/badge/Moises_AI-1DB954?style=for-the-badge&logoColor=white)
 ![Mureka AI](https://img.shields.io/badge/Mureka_AI-EC4899?style=for-the-badge&logoColor=white)
 
+<br/>
+
 **UX & Design**
 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+<br/>
 
 **Ferramentas & Infra**
 
@@ -66,16 +74,16 @@ Atualmente estou evoluindo o projeto **Escriba** para uma aplicação desktop co
 ## 🚀 Projetos em Destaque
 
 ### 🎙️ Escriba — Transcrição e Resumo de Reuniões com IA
-> *Script autônomo em Python que converte horas de reunião em documentos de leitura rápida.*
+> *Aplicação desktop em Python que converte horas de reunião em documentos de leitura rápida.*
 
 - Transcrição local de áudio com **OpenAI Whisper** (processamento 100% local)
-- Resumo estruturado via **Gemini 2.5 Pro** com engenharia de prompt contextual
+- Sumarização inteligente com **LLM local via Ollama** — sem custo, sem internet
+- Interface gráfica moderna com **CustomTkinter** (dark mode)
+- Sistema de projetos, perfis de agente especializados e aprendizado por correção
 - Geração de relatório em **PDF** com ReportLab
 - **41 ciclos de teste** documentados (v0.1 → v4.1) em ambiente real de produção
 - Resultado: reuniões de **4 horas** convertidas em **10~20 min de leitura**
 - Desenvolvido como **Projeto de Extensão Universitária (PEX)** — Descomplica UniAmérica
-
-> 🔧 *Em evolução: interface gráfica desktop + IA 100% local via Ollama + empacotamento com PyInstaller*
 
 ---
 
@@ -119,7 +127,7 @@ Leitura e compreensão auditiva em nível avançado — essencial para consumir 
 
 <div align="center">
 
-![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RegiaJG&show_icons=true&theme=tokyonight&hide_border=true)
+![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RegiaJG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RegiaJG&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
