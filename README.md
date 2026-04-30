@@ -1,33 +1,33 @@
 <div align="center">
 
 # Lucas Costa Nogueira
-### Engenheiro de Software em formação · Desenvolvedor Python · Engenheiro de IA para Produtividade
+### Software Engineering Student · Python Developer · AI Engineer for Productivity
 
-*Transformo problemas reais em ferramentas autônomas com Python e Inteligência Artificial.*
+*I turn real problems into autonomous tools with Python and Artificial Intelligence.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-nogueira-017b12191)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:RegiasWork@hotmail.com)
-![Localização](https://img.shields.io/badge/Camboriú,_SC-Brasil-green?style=for-the-badge)
+![Location](https://img.shields.io/badge/Camboriú,_SC-Brazil-green?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 About Me
 
-Sou estudante de **Engenharia de Software** (Descomplica UniAmérica) com especialização em **User Experience (240h)** e foco prático em automação de fluxos de trabalho com Python e LLMs.
+I'm a **Software Engineering** student (Descomplica UniAmérica) with a specialization in **User Experience (240h)** and hands-on focus on workflow automation using Python and LLMs.
 
-Meu diferencial é unir **visão de negócio** com **execução técnica**: identifico gargalos reais em processos, projeto a solução e a construo do zero — do script ao produto final entregue ao usuário.
+My edge is combining **business vision** with **technical execution**: I identify real bottlenecks, design the solution, and build it from scratch — from script to final product delivered to the user.
 
-Tenho background em **empreendedorismo**, **gestão de equipes** e **marketing digital**, o que me permite enxergar a tecnologia como alavanca estratégica, não apenas como ferramenta.
+I have a background in **entrepreneurship**, **team management**, and **digital marketing**, which allows me to see technology as a strategic lever, not just a tool.
 
-Atualmente estou evoluindo o projeto **Escriba** para uma aplicação desktop completa com interface gráfica e IA 100% local via Ollama.
+I'm currently evolving the **Escriba** project into a full desktop application with a graphical interface and 100% local AI via Ollama.
 
 ---
 
-## 🛠️ Stack & Tecnologias
+## 🛠️ Stack & Technologies
 
-**Linguagens**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -39,7 +39,7 @@ Atualmente estou evoluindo o projeto **Escriba** para uma aplicação desktop co
 
 <br/>
 
-**IA & Automação**
+**AI & Automation**
 
 ![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -60,7 +60,7 @@ Atualmente estou evoluindo o projeto **Escriba** para uma aplicação desktop co
 
 <br/>
 
-**Ferramentas & Infra**
+**Tools & Infrastructure**
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -71,55 +71,55 @@ Atualmente estou evoluindo o projeto **Escriba** para uma aplicação desktop co
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Featured Projects
 
-### 🎙️ Escriba — Transcrição e Resumo de Reuniões com IA
-> *Aplicação desktop em Python que converte horas de reunião em documentos de leitura rápida.*
+### 🎙️ Escriba — AI-Powered Meeting Transcription & Summarization
+> *Desktop application in Python that converts hours of meetings into quick-read documents.*
 
-- Transcrição local de áudio com **OpenAI Whisper** (processamento 100% local)
-- Sumarização inteligente com **LLM local via Ollama** — sem custo, sem internet
-- Interface gráfica moderna com **CustomTkinter** (dark mode)
-- Sistema de projetos, perfis de agente especializados e aprendizado por correção
-- Geração de relatório em **PDF** com ReportLab
-- **41 ciclos de teste** documentados (v0.1 → v4.1) em ambiente real de produção
-- Resultado: reuniões de **4 horas** convertidas em **10~20 min de leitura**
-- Desenvolvido como **Projeto de Extensão Universitária (PEX)** — Descomplica UniAmérica
-
----
-
-### 🌐 GinanRM — Ecossistema Educacional de IA
-> *Plataforma web de conteúdo técnico sobre IA, automação e visão computacional para o público brasileiro.*
-
-- Infraestrutura em **Ghost.io** com tema totalmente customizado via injeção de código (Python + JS)
-- Integração de e-commerce com **Hotmart**
-- Produtos: guias práticos sobre Stable Diffusion, ComfyUI, treinamento de LoRAs e agentes de IA
-- Identidade visual criada do zero: logo, paleta, UI/UX — estética **Cyberpunk Goth**
-- Visão ponta a ponta: infraestrutura, design, jornada do usuário e modelo de negócio
+- Local audio transcription with **OpenAI Whisper** (100% local processing)
+- Intelligent summarization with **local LLM via Ollama** — no cost, no internet required
+- Modern graphical interface with **CustomTkinter** (dark mode)
+- Project management system, specialized agent profiles and correction-based learning
+- Report generation in **PDF** with ReportLab
+- **41 documented test cycles** (v0.1 → v4.1) in real production environment
+- Result: **4-hour meetings** converted into **10~20 min of reading**
+- Developed as a **University Extension Project (PEX)** — Descomplica UniAmérica
 
 ---
 
-## 📚 Formação
+### 🌐 GinanRM — AI Educational Ecosystem
+> *Web platform with technical content about AI, automation and computer vision for the Brazilian market.*
 
-- 🎓 **Bacharelado em Engenharia de Software** — Descomplica UniAmérica *(em andamento)*
-- 🏅 **Especialista em User Experience (UX)** — Descomplica · 240h · *Concluído em 2026*
-
----
-
-## 💼 Experiência Profissional
-
-**🎬 Freelancer — Produção e Edição de Imagens** *(2023 – atual)*
-Atuação como freelancer em produção e edição de imagens, desenvolvendo sensibilidade visual e domínio de fluxos de criação de conteúdo — experiência que complementa diretamente minha formação em UX e meus projetos de identidade visual como o GinanRM.
-
-**🏢 Fundador & Gestor — Império dos Brinquedos** *(ago/2022 – mar/2025)*
-Gestão integral de empresa de locação de brinquedos e equipamentos para eventos. Responsável por planejamento estratégico, logística operacional, atendimento ao cliente, manutenção e marketing digital com tráfego pago.
-
-**🏪 Supervisor de Reposição Noturna — SDB Comércio de Alimentos** *(nov/2020 – jan/2022)*
-Liderança de equipe noturna, gestão de estoque, controle de visual merchandising e supervisão de operações de loja em Balneário Camboriú/SC.
+- **Ghost.io** infrastructure with fully customized theme via code injection (Python + JS)
+- E-commerce integration with **Hotmart**
+- Products: practical guides on Stable Diffusion, ComfyUI, LoRA training and AI agents
+- Visual identity built from scratch: logo, palette, UI/UX — **Cyberpunk Goth** aesthetic
+- End-to-end vision: infrastructure, design, user journey and business model
 
 ---
 
-## 🌍 Inglês Avançado
-Leitura e compreensão auditiva em nível avançado — essencial para consumir documentações técnicas, repositórios e conteúdo internacional de IA sem barreiras.
+## 📚 Education
+
+- 🎓 **Bachelor's in Software Engineering** — Descomplica UniAmérica *(in progress)*
+- 🏅 **User Experience (UX) Specialist** — Descomplica · 240h · *Completed in 2026*
+
+---
+
+## 💼 Professional Experience
+
+**🎬 Freelancer — Image Production & Editing** *(2023 – present)*
+Working as a freelancer in image production and editing, developing visual sensitivity and mastery of content creation workflows — experience that directly complements my UX background and visual identity projects like GinanRM.
+
+**🏢 Founder & Manager — Império dos Brinquedos** *(Aug/2022 – Mar/2025)*
+Full management of an inflatable toy and event equipment rental company. Responsible for strategic planning, logistics, customer service, maintenance and digital marketing with paid traffic.
+
+**🏪 Night Replenishment Supervisor — SDB Comércio de Alimentos** *(Nov/2020 – Jan/2022)*
+Night team leadership, inventory management, visual merchandising and store operations supervision in Balneário Camboriú/SC.
+
+---
+
+## 🌍 Advanced English
+Advanced reading and listening comprehension — essential for consuming technical documentation, repositories and international AI content without barriers.
 
 ---
 
@@ -136,6 +136,6 @@ Leitura e compreensão auditiva em nível avançado — essencial para consumir 
 
 <div align="center">
 
-*"Identifico o gargalo. Projeto a solução. Entrego funcionando."*
+*"I identify the bottleneck. I design the solution. I deliver it working."*
 
 </div>
