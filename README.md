@@ -127,8 +127,8 @@ Advanced reading and listening comprehension — essential for consuming technic
 
 <div align="center">
 
-![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RegiaJG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RegiaJG&layout=compact&theme=tokyonight&hide_border=true)
+![Lucas's GitHub Stats](https://github-readme-stats-liart-rho-71.vercel.app/api?username=RegiaJG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats-liart-rho-71.vercel.app/api/top-langs/?username=RegiaJG&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
